@@ -32,7 +32,7 @@ model, encoders = load_assets()
 # LOAD DATASET & ENCODE IMMEDIATELY
 # ----------------------------------
 
-df = pd.read_excel("csv File/Churn_Modelling.xls") 
+df = pd.read_csv("csv File/Churn_Modelling.xls") 
 
 
 # 1. Clean out non-numeric structural columns if they exist in your file
