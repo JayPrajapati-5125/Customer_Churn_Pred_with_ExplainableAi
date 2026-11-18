@@ -1,5 +1,7 @@
 # 🎯 Customer Churn Prediction with Explainable AI (SHAP)
 
+# **Live Demo** [https://customer-churn-prediction-xai.streamlit.app]
+
 An interactive, end-to-end Machine Learning web application built using **Streamlit** and **XGBoost** to predict customer churn risk. The system integrates **SHAP (SHapley Additive exPlanations)** to provide transparent, feature-level interpretability for both existing and new custom profiles.
 
 ---
